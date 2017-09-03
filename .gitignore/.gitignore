@@ -4,6 +4,11 @@
 
 
 
+#EXTINF:-1 tvg-logo="http://www.diesl.com/wp-content/uploads/2013/10/iptv_logo-300x240.jpg" group-title="z-omitir",==Peli==
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/125px-A%26E_Network_logo.svg.png" group-title="Peli",A&E
+https://www485.playercdn.net/86/2/6UXUm5NY5cet6C3Rs9x6ZA/1504594339/170703/288XB89JBOPS3pY.mp4
+
+
 #EXTINF:-1 tvg-logo="http://www.diesl.com/wp-content/uploads/2013/10/iptv_logo-300x240.jpg" group-title="z-omitir",==Entretenimiento==
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/125px-A%26E_Network_logo.svg.png" group-title="Entretenimiento",A&E
 http://104.245.96.214:8000/live/Clemente/clemente/21.ts
