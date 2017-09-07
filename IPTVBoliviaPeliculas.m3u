@@ -1,12 +1,26 @@
-#EXTM3U  tvg-shift=-4
+#EXTM3U
 
-#EXTINF:-1 tvg-logo="http://www.diesl.com/wp-content/uploads/2013/10/iptv_logo-300x240.jpg" group-title="z-omitir",fb.com/IpTv-Bolivia
-
-
-#EXTINF:-1 tvg-logo="http://www.diesl.com/wp-content/uploads/2013/10/iptv_logo-300x240.jpg" group-title="z-omitir",==Peli==
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/125px-A%26E_Network_logo.svg.png" group-title="Peli",Desnudo
-https://1llr1z.oloadcdn.net/dl/l/egpGJpsi9vxVVWU0/lDUDVlyzHk0/D3snudo.2017.HD-Rip.LAT.mp4?mime=true
+#EXTINF:-1 tvg-logo="http://s2.subirimagenes.com/imagen/previo/thump_9795907log2o.png" group-title="z-omitir",fb.com/IpTv-Bolivia
 
 
+#EXTINF:-1 tvg-logo="http://s2.subirimagenes.com/imagen/previo/thump_9795907log2o.png" group-title="z-omitir",==Peli==
 
 
+#EXTINF:-1 tvg-logo="http://s2.subirimagenes.com/imagen/previo/thump_9795870iptv-pelicula.png" group-title="Comedia",Desnudo
+https://1llr1z.oloadcdn.net/dl/l/egpGJpsi9vxVVWU0/lDUDVlyzHk0/D3snudo.2017.HD-Rip.LAT.mp4
+#EXTINF:-1 tvg-logo="http://s2.subirimagenes.com/imagen/previo/thump_9795870iptv-pelicula.png" group-title="Comedia",Kuudes Kerta
+https://1fiafzm.oloadcdn.net/dl/l/4N4S4biA_J93j1ql/oA2yabRgk4I/Kuud3s+K3rta.2017.DVD-Rip.SUB.mp4?mime=true
+#EXTINF:-1 tvg-logo="http://s2.subirimagenes.com/imagen/previo/thump_9795870iptv-pelicula.png" group-title="Comedia",The Outcast
+https://1fiagec.oloadcdn.net/dl/l/FPFnM6vV54gzvnbv/rjrKUko3ilc/H4sta+que+el+Cu3rpo+Agu4nte.2017.HD-Rip.LAT.mp4?mime=true
+#EXTINF:-1 tvg-logo="http://s2.subirimagenes.com/imagen/previo/thump_9795870iptv-pelicula.png" group-title="Comedia",Empeliculados
+https://1fiagej.oloadcdn.net/dl/l/c1q6Jl7zsAdd3MAk/MtSGvGWdEs8/Empelicul4dos.2017.HD-Rip.LAT.mp4?mime=true
+#EXTINF:-1 tvg-logo="http://s2.subirimagenes.com/imagen/previo/thump_9795870iptv-pelicula.png" group-title="Comedia",3 Idiotas
+https://1fiafzm.oloadcdn.net/dl/l/W_ppWPSvDyondy_a/nnvxLYpDzmY/3+Idi0tas.2017.HD-Rip.LAT.mp4?mime=true
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="http://s2.subirimagenes.com/imagen/previo/thump_9795870iptv-pelicula.png" group-title="Accion",Guardianes de la Galaxia
+https://openload.co/f/-9goNEHkmbQ/GUARDIANES_DE_LA_GALAXIA_%28HD%29.mp4
